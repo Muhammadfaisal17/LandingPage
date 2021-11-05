@@ -1,0 +1,63 @@
+.logotxt{
+  color: orange;
+}
+b{
+  color:orange;
+}
+span{
+  color: orange;
+}
+.navbar{
+  border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
+
+background-color: white;
+}
+a{
+  margin: 10px;
+
+  
+}
+.main{
+width:100%
+}
+.a1:hover{
+color:orangered
+}
+.f1{
+  display: flex;
+  justify-content: center;
+text-align: center;
+}
+.f1 input{
+  width:400px
+}
+
+
+
+.arr img{
+margin: 30px;
+}
+.container-fluid{
+  /* text-align: center; */
+}
+body{
+  margin: 0;
+  padding: 0;
+  background-color: lightgrey;
+}
+hr{
+  color:darkgray;
+}
+
+.a4 a{
+  text-decoration: none;
+}
+.footer{
+  background-color:slategrey;
+color: whitesmoke;
+}
+.footer a{
+  color: whitesmoke;
+}
